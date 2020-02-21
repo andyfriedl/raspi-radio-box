@@ -1,6 +1,8 @@
 # raspi-radio-box
 Raspi-radio-box is an internet radio streaming script using the VLC python library to connect and play the radio streams. The streams are stored remotely in a Google spread sheet to easily update or add streams.
 
+[Place holder for image and video]
+
 For input I have a USB number pad connected via USB to the Raspberry pi 2B+ where I detect the key presses. The available keys are:
 
 - 1 - 9 directly access frequently used for favorite streams.
