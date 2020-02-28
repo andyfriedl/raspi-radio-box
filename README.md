@@ -34,6 +34,10 @@ https://raspberrypi.stackexchange.com/questions/38794/enable-num-lock-at-boot-ra
 https://www.raspberrypi-spy.co.uk/2018/11/raspberry-pi-7-segment-led-display-module-using-python/
 https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi
 
+
+![GitHub Logo](https://i.imgur.com/qb1D2TSh.jpg)
+
+
 License
 ----
 
